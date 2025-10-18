@@ -1,0 +1,23 @@
+.container{
+    height: 700px;
+    /* border: 2px solid red; */
+    
+}
+.child{
+    width: 310px;
+    height: 600px;
+    /* border: 2px solid yellow; */
+    display: inline-block;
+    margin: 25px;
+}
+img{
+    width: 100%;
+}
+.heading{
+    font-size: 25px;
+    text-align: center;
+}
+.description{
+    font-size: 16px;
+    text-align: center;
+}
